@@ -1,3 +1,3 @@
 I have created a smart assistance using a python .
 and named it ellipse.
-where you can listen music know weather conditions,time and date.
+where you can listen music ,know weather conditions,time and date.
